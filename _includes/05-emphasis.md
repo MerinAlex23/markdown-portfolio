@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**😄 Be Happy**
+
+_Be the change you wish to see in the world_
